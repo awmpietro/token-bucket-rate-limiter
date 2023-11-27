@@ -1,4 +1,4 @@
-# token bucket rate limiter
+# code challenge: token bucket rate limiter
 
 a simple rate limiter using the token bucket strategy to be used as a http middleware in a Golang API.
 
